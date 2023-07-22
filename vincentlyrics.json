@@ -1,0 +1,17 @@
+{
+    "GetLyricResult": {
+        "@xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xmlns": "http://api.chartlyrics.com/",
+        "TrackId": "0",
+        "LyricChecksum": "90850e4795933226f3733d775582d1e7",
+        "LyricId": "3169",
+        "LyricSong": "Vincent",
+        "LyricArtist": "Don McLean",
+        "LyricUrl": "http://www.chartlyrics.com/OO4Z-qnC0U6bJKGBAM-dsw/Vincent.aspx",
+        "LyricCovertArtUrl": "http://ec1.images-amazon.com/images/P/B000002UBU.01.MZZZZZZZ.jpg",
+        "LyricRank": "9",
+        "LyricCorrectUrl": "http://www.chartlyrics.com/app/correct.aspx?lid=MwAxADYAOQA=",
+        "Lyric": "Starry, starry night\nPaint your palette blue and gray\nLook out on a summer's day\nWith eyes that know the darkness in my soul\nShadows on the hills\nSketch the trees and the daffodils\nCatch the breeze and the winter chills\nIn colors on the snowy linen land\n\nNow I understand\nWhat you tried to say to me\nAnd how you suffered for your sanity\nAnd how you tried to set them free\nThey would not listen\nThey did not know how\nPerhaps they'll listen now\n\nStarry, starry night\nFlaming flowers that brightly blaze\nSwirling clouds in violet haze\nReflect in Vincent's eyes of china blue\nColors changing hue\nMorning fields of amber grain\nWeathered faces lined in pain\nAre soothed beneath the artist's loving hand\n\nNow I understand\nWhat you tried to say to me\nAnd how you suffered for your sanity\nAnd how you tried to set them free\nThey would not listen\nThey did not know how\nPerhaps they'll listen now\n\nFor they could not love you\nBut still your love was true\nAnd when no hope was left in sight\nOn that starry, starry night\nYou took your life, as lovers often do\nBut I could've told you Vincent\nThis world was never meant for one as beautiful as you\n\nStarry, starry night\nPortraits hung in empty halls\nFrame-less heads on nameless walls\nWith eyes that watch the world and can't forget\nLike the strangers that you've met\nThe ragged men in ragged clothes\nThe silver thorn of bloody rose\nLie crushed and broken on the virgin snow\n\nNow I think I know\nWhat you tried to say to me\nAnd how you suffered for your sanity\nAnd how you tried to set them free\nThey would not listen.\nThey're not listening still\nPerhaps they never will"
+    }
+}
